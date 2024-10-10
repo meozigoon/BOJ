@@ -1,2 +1,2 @@
 # BOJ
-## algorithm study
+### algorithm study
