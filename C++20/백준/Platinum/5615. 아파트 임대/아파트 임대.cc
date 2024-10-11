@@ -45,7 +45,7 @@ int main(void)
 {
     ios::sync_with_stdio(false);
     cin.tie(NULL), cout.tie(NULL);
-    unsigned long long t, cnt = 0;
+    unsigned long long t, cnt(0);
     cin >> t;
     unsigned long long n;
     for (int i = 0; i < t; i++)
