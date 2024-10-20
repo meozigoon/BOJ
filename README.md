@@ -9,7 +9,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/meozigoon/BOJ?style=flat-square)
 
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=meozigoon)](https://solved.ac/meozigoon)
-![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)
+[![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=meozigoon&theme=dark)](https://solved.ac/meozigoon)
 
 코드를 그대로 복붙하는 것은 자제 부탁드립니다.
 
