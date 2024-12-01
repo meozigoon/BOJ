@@ -1,10 +1,7 @@
-a=input()
-b=a.split(' ')
-A=int(b[0])
-B=int(b[1])
-if A>B:
+a, b = map(int, input().split())
+if a > b:
     print('>')
-elif A<B:
-    print('<')
-else:
+elif a == b:
     print('==')
+else:
+    print('<')
