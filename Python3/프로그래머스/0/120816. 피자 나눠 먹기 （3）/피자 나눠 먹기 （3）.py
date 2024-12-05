@@ -1,7 +1,5 @@
 def solution(slice, n):
-    answer = slice
-    cnt = 1
-    while answer < n:
-        cnt += 1
-        answer += slice
-    return cnt
+    if n % slice:
+        return n // slice + 1
+    else:
+        return n // slice
